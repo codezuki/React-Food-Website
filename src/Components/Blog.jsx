@@ -22,7 +22,7 @@ const Blog = () => {
             <img src={blog.image} alt={blog.title} />
             <h3>{blog.title}</h3>
             <p>{blog.description}</p>
-            <button className="read-more-btn">Read More</button>
+            <button className="read-more-btn">Read More for Food</button>
           </div>
         ))}
       </div>
